@@ -1,0 +1,46 @@
+#panel {
+	padding: 5px;
+	border: 2px solid black;
+}
+
+#dyk {
+	position: relative;
+	margin: 20px;
+	font-weight: bold;
+	font-size: 22px;
+}
+
+footer {
+	text-align: center;
+	font-size: 18px;
+}
+
+#background {
+	background-image: url("http://cliparts.co/cliparts/Big/rpr/BigrprkMT.jpg");
+	color: white;
+	font-family: Helvetica;
+}
+
+.hugeheading {
+	font-size: 28px;
+}
+
+.Arial {
+	font-family: Arial;
+}
+
+.bigred {
+	font-size: 26px;
+	font-weight: bold;
+	color: red;
+}
+
+a:visited { 
+    color: green;
+}
+
+@media screen, all and (min-width: 300px) {
+	div {
+		background: blue;
+	}
+}

@@ -1,0 +1,27 @@
+Briefly describe your understanding of what the browser does, including definitions of the following:
+* A web browser is a software program that interprets computer code from the web into something readable and usable by a human. A web browser is one type of client in a client-server relationship, which accesses a service made available by a server. A server is a piece of computer hardware or software that allows other programs or devices ("clients") to function. Rendering is the process of generating an image by means of computer programs (ie the process by which information in bytes if transformed into a image that a human sees on a screen)
+
+What is HTML? In your answer, include definitions of the following:
+
+Html (hypertext markup language) is a means to give standard language special meaning by marking it up.
+tag - hidden keywords within a web page that define how the browser must format and display the content.
+element - a building block within html that usually consists of a start tag, content, and an end tag.
+node - every item within an html document is a node (including the document itself)
+attribute - an attribute is an item in html that either modifies the default functionality of the element type or gives functionality to some element types that are not able to work right in their absence.
+block element - a block is a division of a certain portion of a given HTMl document. Attributes that affect the block affect everything within the block (as opposed to inline)
+inline element - an inline element occupies only the space bounded by the tags that define the inline element
+
+Very briefly, explain the purpose of the following elements:
+head - gives meta data about the page, not visible with the web page
+body - the substance of the web page; elements here are visible to the user
+p - paragraph, a block of text
+form - an element that collects user input
+div - an element used to mark a division of nodes within an html dom
+span - an element used to apply attributes only within the confines of the span
+select - an element that is a form control and can be used in a form to collect user input
+h2 - the second largest heading type
+ol - ordered list (lists with numbers)
+ul - unordered list (lists with bullet points)
+table - an element used to create tables within html docs
+tr - table row, used to create rows within tables
+td - table data, the substance that populates tables
